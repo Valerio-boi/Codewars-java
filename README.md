@@ -2,7 +2,7 @@
 
 ## Il mio rank attuale
 [![CodeWars](https://www.codewars.com/users/Restorm12/badges/large)](https://www.codewars.com/users/Ficcadenti) 
-
+<hr>
 tutti i kata svolti sul sito codewars, di seguito il link del sito:
 <a>https://www.codewars.com/dashboard</a>
 
