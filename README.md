@@ -1,7 +1,5 @@
 # Codewars-java
-# Il mio rank attuale 
-[![CodeWars](https://www.codewars.com/users/Restorm12/badges/large)](https://www.codewars.com/users/Restorm12) 
-
+# Il mio rank attuale                          [![CodeWars](https://www.codewars.com/users/Restorm12/badges/large)](https://www.codewars.com/users/Restorm12) 
 
 # Cos'è Codewars:
 Codewars è una comunità educativa per la programmazione informatica. 
