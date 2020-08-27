@@ -1,6 +1,4 @@
-<div class="text-white bg-red mb-2">
 <h1> Codewars-java </h1>
-</div>
 ## Il mio rank attuale
 [![CodeWars](https://www.codewars.com/users/Restorm12/badges/large)](https://www.codewars.com/users/Restorm12) 
 
