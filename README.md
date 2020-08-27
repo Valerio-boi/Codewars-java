@@ -8,7 +8,7 @@ Sulla piattaforma, gli sviluppatori di software si allenano su sfide
 di programmazione note come kata
 <hr>
 tutti i kata svolti sul sito codewars, di seguito il link del sito:
-(https://www.codewars.com)
+https://www.codewars.com
 <hr>
 
 | n. | Linguaggio | kyu | Codewars Kate | La mia soluzione |
